@@ -37,6 +37,7 @@ configuration_options = {
 						{description = "150%", data = 1.5},
 						{description = "170%", data = 1.7},
 						{description = "200%", data = 2},
+                    --体积上限修改
 						{description = "400%", data = 4},
 					},
 		default = 2,
@@ -109,6 +110,7 @@ configuration_options = {
 		{description = "100秒", data = 100},
 		{description = "200秒", data = 200},
 		{description = "300秒", data = 300},
+    --冷却时间修改
 		{description = "60秒", data = 60},
 	},
 		default = 300,
@@ -118,6 +120,7 @@ configuration_options = {
 		label = "咆哮的冷却时间",
 		options =
 	{
+    --冷却时间修改
 		{description = "10秒", data = 10},
 		{description = "20秒", data = 20},
 		{description = "30秒", data = 30},

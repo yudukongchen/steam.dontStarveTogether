@@ -182,11 +182,12 @@ local function OnKilledOther(inst, victim)
           victim.components.lootdropper.DropLoot = function(self, pt) end
 
                 if victim and victim.components.health then  --把血量大于等于2000的都归为boss吧
-                          if victim.components.health.maxhealth >= 2000 then
-                                   inst.level = inst.level + 25
-                        else 
-                               inst.level = inst.level + 5
-                      end            
+                    -- 盛宴叠加被动层数修改 (5 -> 25, 1 -> 5)
+                    if victim.components.health.maxhealth >= 2000 then
+                        inst.level = inst.level + 25
+                    else
+                        inst.level = inst.level + 5
+                    end
                 end     
             if not victim:HasTag("structure") and victim.prefab ~= "lureplant"  and victim.prefab ~= "mushgnome" then        
           local x, y, z = victim.Transform:GetWorldPosition()          
