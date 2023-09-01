@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_spark">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_spark/asa_spark.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

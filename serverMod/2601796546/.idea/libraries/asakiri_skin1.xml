@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asakiri_skin1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asakiri_skin1/asakiri_skin1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

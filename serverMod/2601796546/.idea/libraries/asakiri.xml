@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asakiri">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asakiri/asakiri.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

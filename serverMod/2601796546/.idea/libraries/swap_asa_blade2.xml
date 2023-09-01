@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="swap_asa_blade2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/swap_asa_blade2/swap_asa_blade2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

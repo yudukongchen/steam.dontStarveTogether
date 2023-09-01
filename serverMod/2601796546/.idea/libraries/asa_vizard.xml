@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_vizard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_vizard/asa_vizard.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

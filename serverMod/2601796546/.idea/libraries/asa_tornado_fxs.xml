@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_tornado_fxs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_tornado_fxs/asa_tornado_fxs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

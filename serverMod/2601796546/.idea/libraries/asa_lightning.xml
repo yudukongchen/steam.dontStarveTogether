@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_lightning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_lightning/asa_lightning.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

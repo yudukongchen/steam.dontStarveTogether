@@ -1,0 +1,67 @@
+local require = GLOBAL.require
+local STRINGS = GLOBAL.STRINGS
+
+TUNING.ASAKIRI_MOD_LANGUAGES = "english"
+
+STRINGS.NAMES.ASATAB = "Nano"
+
+STRINGS.CHARACTER_TITLES.asakiri = "Cyborg"
+STRINGS.CHARACTER_NAMES.asakiri = "Asakiri"
+STRINGS.CHARACTER_DESCRIPTIONS.asakiri = "*Metallic body so not interest in food\n*Excellent warrior but long way to go\n*Manufacturing and modification\n*Exploring herself yet no answer"
+STRINGS.CHARACTER_QUOTES.asakiri = "Is there anywhere for me to rest?"
+
+STRINGS.NAMES.ASAKIRI = "Asakiri"
+STRINGS.SKIN_NAMES.asakiri_none = "Asakiri"  --检查界面显示的名字
+
+
+STRINGS.CHARACTER_SURVIVABILITY.asakiri = "Overload"
+
+
+GLOBAL.STRINGS.NAMES.ASA_BLADE = "HF blade·Qinglu"
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_BLADE = "Sharp and buzzy."
+
+GLOBAL.STRINGS.NAMES.ASA_REPAIR = "Repair Kit"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_REPAIR = "Repair yourself."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_REPAIR = "Someone's personal service kit."
+
+GLOBAL.STRINGS.NAMES.ASA_BOOST = "Superconductive Battery"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_BOOST = "You should be stronger than that."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_BOOST = "Someone's personal battery."
+
+GLOBAL.STRINGS.NAMES.ASA_VIZARD = "Scanning Vizard"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_VIZARD = "A survival enhancement."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_VIZARD = "Indicates dangers and provides night vision."
+
+GLOBAL.STRINGS.NAMES.ASA_SHOP = "Workshop"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_SHOP = "Provides repairing and manufacturing service."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_SHOP = "Complex and technological."
+
+GLOBAL.STRINGS.NAMES.ASA_BLADE2_ITEM = "HF blade·Xiao"
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_BLADE2_ITEM = "The red glow."
+
+GLOBAL.STRINGS.NAMES.ASA_BLADE2 = "Remade:HF blade·Xiao"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_BLADE2 = "Higher frequency, more destruction."
+
+GLOBAL.STRINGS.NAMES.ASA_AXE = "HF Axe"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_AXE = "Chargeable multi-used tool."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_AXE = "Remember to turn it off."
+
+GLOBAL.STRINGS.NAMES.ASA_MINE = "Hunter Mine"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_MINE = "Mine with homing system."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_MINE = "Attention."
+
+GLOBAL.STRINGS.NAMES.ASA_DRONE = "Defence Drone"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_DRONE = "Defence matrix activator."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_DRONE = "It protects me."
+
+GLOBAL.STRINGS.NAMES.ASA_MIRAGE = "Light Distorter"
+GLOBAL.STRINGS.RECIPE_DESC.ASA_MIRAGE = "You could be almost anything."
+GLOBAL.STRINGS.CHARACTERS.GENERIC.DESCRIBE.ASA_MIRAGE = "It can't be."
+
+GLOBAL.STRINGS.ASA_DASH = "Dash"
+GLOBAL.STRINGS.ASA_DODGE = "Dodge"
+GLOBAL.STRINGS.ASA_CUT = "Cut"
+GLOBAL.STRINGS.ASA_EQUIP = "Draw the Blade"
+GLOBAL.STRINGS.ASA_UNEQUIP = "Sheath"
+GLOBAL.STRINGS.ASA_REPAIR = "Repair"
+GLOBAL.STRINGS.ASA_CHARGE = "Charge"

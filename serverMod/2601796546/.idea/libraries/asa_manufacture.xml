@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_manufacture">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_manufacture/asa_manufacture.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

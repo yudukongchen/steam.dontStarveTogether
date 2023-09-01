@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ghost_asakiri_build">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/ghost_asakiri_build/ghost_asakiri_build.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

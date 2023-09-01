@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="asa_panel_explain_en.tex" />
+	<Elements>
+		<Element name="explain_1.tex" u1="0.001" u2="0.249" v2="0.999" v1="0.751" variant="" />
+		<Element name="explain_10.tex" u1="0.251" u2="0.499" v2="0.499" v1="0.251" variant="" />
+		<Element name="explain_11.tex" u1="0.501" u2="0.749" v2="0.499" v1="0.251" variant="" />
+		<Element name="explain_12.tex" u1="0.751" u2="0.999" v2="0.499" v1="0.251" variant="" />
+		<Element name="explain_2.tex" u1="0.251" u2="0.499" v2="0.999" v1="0.751" variant="" />
+		<Element name="explain_3.tex" u1="0.001" u2="0.249" v2="0.749" v1="0.501" variant="" />
+		<Element name="explain_4.tex" u1="0.251" u2="0.499" v2="0.749" v1="0.501" variant="" />
+		<Element name="explain_5.tex" u1="0.501" u2="0.749" v2="0.999" v1="0.751" variant="" />
+		<Element name="explain_6.tex" u1="0.751" u2="0.999" v2="0.999" v1="0.751" variant="" />
+		<Element name="explain_7.tex" u1="0.501" u2="0.749" v2="0.749" v1="0.501" variant="" />
+		<Element name="explain_8.tex" u1="0.751" u2="0.999" v2="0.749" v1="0.501" variant="" />
+		<Element name="explain_9.tex" u1="0.001" u2="0.249" v2="0.499" v1="0.251" variant="" />
+		<Element name="name_1.tex" u1="0.001" u2="0.211890625" v2="0.249" v1="0.2265859375" variant="" />
+		<Element name="name_10.tex" u1="0.213890625" u2="0.42478125" v2="0.200171875" v1="0.1777578125" variant="" />
+		<Element name="name_11.tex" u1="0.42678125" u2="0.637671875" v2="0.200171875" v1="0.1777578125" variant="" />
+		<Element name="name_12.tex" u1="0.639671875" u2="0.8505625" v2="0.200171875" v1="0.1777578125" variant="" />
+		<Element name="name_2.tex" u1="0.213890625" u2="0.42478125" v2="0.249" v1="0.2265859375" variant="" />
+		<Element name="name_3.tex" u1="0.42678125" u2="0.637671875" v2="0.249" v1="0.2265859375" variant="" />
+		<Element name="name_4.tex" u1="0.639671875" u2="0.8505625" v2="0.249" v1="0.2265859375" variant="" />
+		<Element name="name_5.tex" u1="0.001" u2="0.211890625" v2="0.2245859375" v1="0.202171875" variant="" />
+		<Element name="name_6.tex" u1="0.213890625" u2="0.42478125" v2="0.2245859375" v1="0.202171875" variant="" />
+		<Element name="name_7.tex" u1="0.42678125" u2="0.637671875" v2="0.2245859375" v1="0.202171875" variant="" />
+		<Element name="name_8.tex" u1="0.639671875" u2="0.8505625" v2="0.2245859375" v1="0.202171875" variant="" />
+		<Element name="name_9.tex" u1="0.001" u2="0.211890625" v2="0.200171875" v1="0.1777578125" variant="" />
+	</Elements>
+</Atlas>

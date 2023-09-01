@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="upgrade_fx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/upgrade_fx/upgrade_fx.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

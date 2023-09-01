@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="asa_panel_explain.tex" />
+	<Elements>
+		<Element name="explain1.tex" u1="0.001" u2="0.249" v2="0.999" v1="0.667666666666667" variant="" />
+		<Element name="explain10.tex" u1="0.251" u2="0.499" v2="0.332333333333333" v1="0.001" variant="" />
+		<Element name="explain11.tex" u1="0.501" u2="0.749" v2="0.332333333333333" v1="0.001" variant="" />
+		<Element name="explain12.tex" u1="0.751" u2="0.999" v2="0.332333333333333" v1="0.001" variant="" />
+		<Element name="explain2.tex" u1="0.251" u2="0.499" v2="0.999" v1="0.667666666666667" variant="" />
+		<Element name="explain3.tex" u1="0.001" u2="0.249" v2="0.665666666666667" v1="0.334333333333333" variant="" />
+		<Element name="explain4.tex" u1="0.251" u2="0.499" v2="0.665666666666667" v1="0.334333333333333" variant="" />
+		<Element name="explain5.tex" u1="0.501" u2="0.749" v2="0.999" v1="0.667666666666667" variant="" />
+		<Element name="explain6.tex" u1="0.751" u2="0.999" v2="0.999" v1="0.667666666666667" variant="" />
+		<Element name="explain7.tex" u1="0.501" u2="0.749" v2="0.665666666666667" v1="0.334333333333333" variant="" />
+		<Element name="explain8.tex" u1="0.751" u2="0.999" v2="0.665666666666667" v1="0.334333333333333" variant="" />
+		<Element name="explain9.tex" u1="0.001" u2="0.249" v2="0.332333333333333" v1="0.001" variant="" />
+	</Elements>
+</Atlas>

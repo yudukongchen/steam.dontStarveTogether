@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="anim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/anim/zan_light.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_action.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_shop.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_lightning.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asakiri_skin1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_manufacture.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_power2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_spark.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_axe.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_cd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_items.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_drone.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asakiri_skin2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_tornado_fxs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/zan_label.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_power.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_vizard.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_blade.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/swap_asa_blade.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/swap_asa_blade2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/zan2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_ring.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asakiri.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asakiri_skin3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/asa_max_fx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/swap_asa_axe.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/upgrade_fx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/swap_asa_axe1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/ghost_asakiri_build.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

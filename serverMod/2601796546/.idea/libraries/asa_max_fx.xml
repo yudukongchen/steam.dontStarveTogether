@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_max_fx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_max_fx/asa_max_fx.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

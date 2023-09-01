@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="asa_panel.tex" />
+	<Elements>
+		<Element name="base.tex" u1="0.001" u2="0.78025" v2="0.999" v1="0.5117421875" variant="" />
+		<Element name="circle.tex" u1="0.78225" u2="0.829078125" v2="0.999" v1="0.952171875" variant="" />
+		<Element name="circle_on.tex" u1="0.831078125" u2="0.87790625" v2="0.999" v1="0.952171875" variant="" />
+		<Element name="learn0.tex" u1="0.001" u2="0.249" v2="0.5097421875" v1="0.4140859375" variant="" />
+		<Element name="learn1.tex" u1="0.251" u2="0.499" v2="0.5097421875" v1="0.4140859375" variant="" />
+		<Element name="learn1_en.tex" u1="0.501" u2="0.749" v2="0.5097421875" v1="0.4140859375" variant="" />
+		<Element name="learn2.tex" u1="0.751" u2="0.999" v2="0.5097421875" v1="0.4140859375" variant="" />
+		<Element name="learn2_en.tex" u1="0.001" u2="0.249" v2="0.4120859375" v1="0.3164296875" variant="" />
+		<Element name="name1.tex" u1="0.78225" u2="0.930640625" v2="0.950171875" v1="0.893578125" variant="" />
+		<Element name="name10.tex" u1="0.55178125" u2="0.700171875" v2="0.4120859375" v1="0.3554921875" variant="" />
+		<Element name="name11.tex" u1="0.702171875" u2="0.8505625" v2="0.4120859375" v1="0.3554921875" variant="" />
+		<Element name="name12.tex" u1="0.251" u2="0.399390625" v2="0.3534921875" v1="0.2968984375" variant="" />
+		<Element name="name2.tex" u1="0.78225" u2="0.930640625" v2="0.891578125" v1="0.834984375" variant="" />
+		<Element name="name3.tex" u1="0.78225" u2="0.930640625" v2="0.832984375" v1="0.776390625" variant="" />
+		<Element name="name4.tex" u1="0.78225" u2="0.930640625" v2="0.774390625" v1="0.717796875" variant="" />
+		<Element name="name5.tex" u1="0.78225" u2="0.930640625" v2="0.715796875" v1="0.659203125" variant="" />
+		<Element name="name6.tex" u1="0.78225" u2="0.930640625" v2="0.657203125" v1="0.600609375" variant="" />
+		<Element name="name7.tex" u1="0.78225" u2="0.930640625" v2="0.598609375" v1="0.542015625" variant="" />
+		<Element name="name8.tex" u1="0.251" u2="0.399390625" v2="0.4120859375" v1="0.3554921875" variant="" />
+		<Element name="name9.tex" u1="0.401390625" u2="0.54978125" v2="0.4120859375" v1="0.3554921875" variant="" />
+		<Element name="skill0.tex" u1="0.8525625" u2="0.9755625" v2="0.4120859375" v1="0.2890859375" variant="" />
+		<Element name="skill1_1.tex" u1="0.401390625" u2="0.524390625" v2="0.3534921875" v1="0.2304921875" variant="" />
+		<Element name="skill1_2.tex" u1="0.526390625" u2="0.649390625" v2="0.3534921875" v1="0.2304921875" variant="" />
+		<Element name="skill1_3.tex" u1="0.651390625" u2="0.774390625" v2="0.3534921875" v1="0.2304921875" variant="" />
+		<Element name="skill2_1.tex" u1="0.001" u2="0.124" v2="0.3144296875" v1="0.1914296875" variant="" />
+		<Element name="skill2_2.tex" u1="0.126" u2="0.249" v2="0.3144296875" v1="0.1914296875" variant="" />
+		<Element name="skill2_3.tex" u1="0.251" u2="0.374" v2="0.2948984375" v1="0.1718984375" variant="" />
+		<Element name="skill3_1.tex" u1="0.776390625" u2="0.899390625" v2="0.2870859375" v1="0.1640859375" variant="" />
+		<Element name="skill3_2.tex" u1="0.376" u2="0.499" v2="0.2284921875" v1="0.1054921875" variant="" />
+		<Element name="skill3_3.tex" u1="0.501" u2="0.624" v2="0.2284921875" v1="0.1054921875" variant="" />
+		<Element name="skill4.tex" u1="0.626" u2="0.749" v2="0.2284921875" v1="0.1054921875" variant="" />
+		<Element name="skill5.tex" u1="0.001" u2="0.124" v2="0.1894296875" v1="0.0664296875" variant="" />
+		<Element name="skill6.tex" u1="0.126" u2="0.249" v2="0.1894296875" v1="0.0664296875" variant="" />
+	</Elements>
+</Atlas>

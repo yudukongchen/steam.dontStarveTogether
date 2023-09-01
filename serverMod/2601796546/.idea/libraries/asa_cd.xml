@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_cd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_cd/asa_cd.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

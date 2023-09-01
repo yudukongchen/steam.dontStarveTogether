@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_power">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_power/asa_power.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zan_label">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/zan_label/zan_label.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zan_light">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/zan_light/zan_light.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

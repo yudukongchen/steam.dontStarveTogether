@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="asa_drone">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exported/asa_drone/asa_drone.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
