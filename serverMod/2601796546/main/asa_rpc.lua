@@ -15,7 +15,7 @@ end)
 
 --技能点变化
 AddModRPCHandler("asakiri", "SkpChange", function(player, val)
--- 	player.asa_skp:set(val)
+-- 	player.asa_skp:set(val)  修改技能点获取基数
 	player.asa_skp:set(val + 4)
 end)
 

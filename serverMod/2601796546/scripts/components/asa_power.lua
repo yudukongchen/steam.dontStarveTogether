@@ -38,12 +38,14 @@ local Asa_Power = Class(function(self, inst)
 	self.minpw = 0			--能量值下限
 	self.maxpw = 0		--能量值上限
 	self.maxpw = 10		--能量值上限
+--  修改能量值升级上限
 --upd 	self.pwlimit = 10		--能量值升级上限
 	self.pwlimit = 20		--能量值升级上限
 	self.pw = self.maxpw	--能量值初始化
 	self.cd = 0		--回复冷却
 	self.maxcd = 30 * 8		--常规冷却上限
 	self.cdover = 30 * 10	--过载CD惩罚的基数
+--  修改冷却恢复速度
 --upd 	self.cdrate = 1		--CD减少倍数
 	self.cdrate = 2		--CD减少倍数
 	self.boost = 0  --充能剩余时间
@@ -114,7 +116,8 @@ local Asa_Power = Class(function(self, inst)
 	--监听开大结束，CD惩罚
 	inst:ListenForEvent("MaxSkill",function()
 		if inst.maxskill:value() == 0 then
---upd 			self.cd = self.cdover + self.maxpw * 30		--能力越强，代价越大，从11到20秒
+-- 			修改CD惩罚计算
+-- 			self.cd = self.cdover + self.maxpw * 30		--能力越强，代价越大，从11到20秒
 			self.cd = self.cdover
 		end
 	end)
@@ -142,7 +145,8 @@ function Asa_Power:Set(amount)
 end
 --设定最大能量值
 function Asa_Power:SetMax(amount)
---upd 	self.maxpw = amount < self.pwlimit and amount or self.pwlimit
+--  修改最大能量值(+10)
+-- 	self.maxpw = amount < self.pwlimit and amount or self.pwlimit
 	local updpw = amount < self.pwlimit and amount or self.pwlimit
 	self.maxpw = updpw + 10
 end

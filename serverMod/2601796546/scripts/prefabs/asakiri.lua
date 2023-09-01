@@ -215,7 +215,7 @@ local master_postinit = function(inst)
 	inst.soundsname = "asakiri"
 	
 	-- 三维	
--- 	inst.components.health:SetMaxHealth(175)
+-- 	inst.components.health:SetMaxHealth(175)    修改血量值
 	inst.components.health:SetMaxHealth(375)
 	inst.components.hunger:SetMax(120)
 	inst.components.sanity:SetMax(150)
@@ -224,7 +224,7 @@ local master_postinit = function(inst)
 	inst.components.eater:SetAbsorptionModifiers(0.5, 0.6, 0.5)
 	
 	-- 伤害系数
---     inst.components.combat.damagemultiplier = 1
+--     inst.components.combat.damagemultiplier = 1  修改伤害系数
     inst.components.combat.damagemultiplier = 1.5
 
 	-- 饥饿速度
