@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="anim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/anim/pawsicles.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/icecake.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/listen_fx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/diting.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/ghost_diting_build.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/Firediting_bloom_fx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/hellhotpot.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/littlematch.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/diting_bloom_fx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/tianluhat.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/freezeocean.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/reviverocket.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/bixiehat.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/listen.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/shadowhelmet.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/littlematch.autosave.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/ditinglisten.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/qiongqibao.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/diting_godmeghost.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

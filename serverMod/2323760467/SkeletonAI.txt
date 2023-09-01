@@ -1,0 +1,62 @@
+Skeleton golems will support your survival.
+There are the following three kinds of Skeleton.
+-Servant
+-Warrior
+-Mage
+
+A Skeleton follows you. Turning off him, he stays there. Turning on him, he follows you again.
+Picking up a Skeleton, you can carry him in your inventory.
+Turning on or Picking up a Skeleton, he take the player as a new leader.
+Playing a Beefalo Horn, you can gather your Skeletons.
+A Skeleton can go and come through a Sinkhole by himself, as like Woby.
+
+
+SERVANT:
+-He collects stuff or foods automatically.
+-He chops trees with you.
+-He mines rocks with you.
+-He digs stumps with you.
+
+Picking up him, he drops all stuff and foods which he held.
+He can use Backpack. Putting a Backpack on the ground, he takes it and equips it.
+You can craft a Servant under MAGIC tab by a Shadow Manipulator.
+Giving a Telltale Heart to the skeleton which lies on the ground, It will change to a Servant.
+
+
+WARRIOR:
+-He attacks your enemies automatically.
+-He chops trees with you.
+-He mines rocks with you.
+-He digs stumps with you.
+
+In darkness, he takes a glowing Lantern.
+You can't craft an Warrior. Giving three of the following items to a Servant, he changes to an Warrior.
+(Well... you may give x3 Log Suits to a Servant.)
+-Log Suit
+-Football Helmet
+
+
+MAGE(MAGICAL WARRIOR):
+There are three kinds of Mage.
+-Shadow Mage can attack a shadow monster.
+-Fire Mage can ignite an enemy.
+-Ice Mage can freeze an enemy.
+
+Giving all following items to an Warrior, he changes to a Shadow Mage (by any Amulet).
+(Well... you may give x10 Nightmare Fuels and x3 Blue Gems and x1 Blue Amulet to a Warrior.)
+- 10x Nightmare Fuels
+- 3x any Gems (Blue or Red or Purple)
+- 1x any Amulet (Blue or Red or Purple)
+
+Giving a Purple Amulet to any Mage, he changes to a Shadow Mage again.
+Giving a Red Amulet to any Mage, he changes to a Fire Mage again.
+Giving a Blue Amulet to any Mage, he changes to an Ice Mage again.
+
+
+KNOWN BUGS:
+
+
+VERY THANKS:
+DrBLOOD95 created the original mod for DS, and I ported it to DST.
+Maximum praise upon him.
+https://steamcommunity.com/sharedfiles/filedetails/?id=808788274

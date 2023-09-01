@@ -1,0 +1,8 @@
+<Atlas>
+	<Texture filename="QM_UI01.tex"/>
+	<Elements>
+		<Element name="csplayer_disabled.tex" u1="0.000000" u2="0.494118" v1="0.002809" v2="0.474719"/>
+		<Element name="csplayer_halfshadow.tex" u1="0.000000" u2="0.544118" v1="0.480337" v2="1.000000"/>
+		<Element name="csplayer.tex" u1="0.500000" u2="0.994118" v1="0.002809" v2="0.474719"/>
+	</Elements>
+</Atlas>
