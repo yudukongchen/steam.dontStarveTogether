@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="anim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/anim/robobee_caterpillar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/statuerobobee_78.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/statuerobobee.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/robobee.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/statuerobobee_caterpillar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/robobee_78.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/sparks_robobee.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

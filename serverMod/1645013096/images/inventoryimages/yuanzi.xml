@@ -1,0 +1,59 @@
+<Atlas>
+	<Texture filename="yuanzi.tex" />
+    <Elements>
+        <Element name="breath_wind.tex" u1="0" u2="0.125" v1="0.875" v2="1" />
+        <Element name="buckwheat.tex" u1="0.125" u2="0.25" v1="0.875" v2="1" />
+        <Element name="buckwheat_chongshen.tex" u1="0.25" u2="0.375" v1="0.875" v2="1" />
+        <Element name="buckwheat_xinzhou.tex" u1="0.375" u2="0.5" v1="0.875" v2="1" />
+        <Element name="dango_amiya.tex" u1="0.5" u2="0.625" v1="0.875" v2="1" />
+        <Element name="divinetree.tex" u1="0.625" u2="0.75" v1="0.875" v2="1" />
+        <Element name="divinetree_seed.tex" u1="0.75" u2="0.875" v1="0.875" v2="1" />
+        <Element name="fire_bless.tex" u1="0" u2="0.125" v1="0.75" v2="0.875" />
+        <Element name="fish_sashimi.tex" u1="0.125" u2="0.25" v1="0.75" v2="0.875" />
+        <Element name="health_rune.tex" u1="0.25" u2="0.375" v1="0.75" v2="0.875" />
+        <Element name="kaki_off.tex" u1="0.375" u2="0.5" v1="0.75" v2="0.875" />
+        <Element name="kaki_on.tex" u1="0.5" u2="0.625" v1="0.75" v2="0.875" />
+        <Element name="yuanzi_hat_lv2.tex" u1="0.625" u2="0.75" v1="0.75" v2="0.875" />
+        <Element name="mamemushi.tex" u1="0.75" u2="0.875" v1="0.75" v2="0.875" />
+        <Element name="mugi.tex" u1="0" u2="0.125" v1="0.625" v2="0.75" />
+        <Element name="mugi_yaki.tex" u1="0.125" u2="0.25" v1="0.625" v2="0.75" />
+        <Element name="ramen.tex" u1="0.25" u2="0.375" v1="0.625" v2="0.75" />
+        <Element name="ramen_asahigawa.tex" u1="0.375" u2="0.5" v1="0.625" v2="0.75" />
+        <Element name="ramen_tokushima.tex" u1="0.5" u2="0.625" v1="0.625" v2="0.75" />
+        <Element name="sancho.tex" u1="0.625" u2="0.75" v1="0.625" v2="0.75" />
+        <Element name="sanuki_hon.tex" u1="0.75" u2="0.875" v1="0.625" v2="0.75" />
+        <Element name="sapori_mg.tex" u1="0" u2="0.125" v1="0.5" v2="0.625" />
+        <Element name="sonoko_bag.tex" u1="0.125" u2="0.25" v1="0.5" v2="0.625" />
+        <Element name="udon_kare.tex" u1="0.25" u2="0.375" v1="0.5" v2="0.625" />
+        <Element name="wudong_carror.tex" u1="0.375" u2="0.5" v1="0.5" v2="0.625" />
+        <Element name="wudong_clear_soup.tex" u1="0.5" u2="0.625" v1="0.5" v2="0.625" />
+        <Element name="wudong_eggs.tex" u1="0.625" u2="0.75" v1="0.5" v2="0.625" />
+        <Element name="wudong_fish_gan.tex" u1="0.75" u2="0.875" v1="0.5" v2="0.625" />
+        <Element name="wudong_fish_gao.tex" u1="0" u2="0.125" v1="0.375" v2="0.5" />
+        <Element name="wudong_fuyu.tex" u1="0.125" u2="0.25" v1="0.375" v2="0.5" />
+        <Element name="wudong_girl_power.tex" u1="0.25" u2="0.375" v1="0.375" v2="0.5" />
+        <Element name="wudong_honny_gan.tex" u1="0.375" u2="0.5" v1="0.375" v2="0.5" />
+        <Element name="wudong_jiangzhi.tex" u1="0.5" u2="0.625" v1="0.375" v2="0.5" />
+        <Element name="wudong_licat.tex" u1="0.625" u2="0.75" v1="0.375" v2="0.5" />
+        <Element name="wudong_lv1.tex" u1="0.75" u2="0.875" v1="0.375" v2="0.5" />
+        <Element name="wudong_lv2.tex" u1="0" u2="0.125" v1="0.25" v2="0.375" />
+        <Element name="wudong_meatmo.tex" u1="0.125" u2="0.25" v1="0.25" v2="0.375" />
+        <Element name="wudong_niqiu.tex" u1="0.25" u2="0.375" v1="0.25" v2="0.375" />
+        <Element name="wudong_poge.tex" u1="0.375" u2="0.5" v1="0.25" v2="0.375" />
+        <Element name="wudong_power.tex" u1="0.5" u2="0.625" v1="0.25" v2="0.375" />
+        <Element name="wudong_quickeat.tex" u1="0.625" u2="0.75" v1="0.25" v2="0.375" />
+        <Element name="wudong_salad.tex" u1="0.75" u2="0.875" v1="0.25" v2="0.375" />
+        <Element name="wudong_shanyao.tex" u1="0" u2="0.125" v1="0.125" v2="0.25" />
+        <Element name="wudong_shouxi.tex" u1="0.125" u2="0.25" v1="0.125" v2="0.25" />
+        <Element name="wudong_tianfuluo.tex" u1="0.25" u2="0.375" v1="0.125" v2="0.25" />
+        <Element name="wudong_torso_vege.tex" u1="0.375" u2="0.5" v1="0.125" v2="0.25" />
+        <Element name="wudong_tree.tex" u1="0.5" u2="0.625" v1="0.125" v2="0.25" />
+        <Element name="yuanzi_armor_lv1.tex" u1="0.625" u2="0.75" v1="0.125" v2="0.25" />
+        <Element name="yuanzi_armor_lv2.tex" u1="0.75" u2="0.875" v1="0.125" v2="0.25" />
+        <Element name="yuanzi_flyknife.tex" u1="0" u2="0.125" v1="0" v2="0.125" />
+        <Element name="yuanzi_hat_lv1.tex" u1="0.125" u2="0.25" v1="0" v2="0.125" />
+        <Element name="yuanzi_spear_lv1.tex" u1="0.25" u2="0.375" v1="0" v2="0.125" />
+        <Element name="yuanzi_spear_lv2.tex" u1="0.375" u2="0.5" v1="0" v2="0.125" />
+        <Element name="yuanzi_spear_open.tex" u1="0.5" u2="0.625" v1="0" v2="0.125" />
+    </Elements>
+</Atlas>
