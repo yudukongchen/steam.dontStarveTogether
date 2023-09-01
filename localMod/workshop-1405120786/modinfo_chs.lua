@@ -22,6 +22,8 @@ configuration_options =
 			{description = "25", data = 25},
 			{description = "30", data = 30},
 			{description = "40", data = 40},
+        --  添加35格物品栏选项
+			{description = "35", data = 35},
         }, 
         default = 15,
     },
