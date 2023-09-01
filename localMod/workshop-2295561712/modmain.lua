@@ -1,0 +1,5 @@
+GLOBAL.LIGHTNING_GOAT_MILK = GetModConfigData("lightning_goat_milk")
+GLOBAL.LIGHTNING_GOAT_HORN = GetModConfigData("lightning_goat_horn")
+GLOBAL.CHARGED_LIGHTNING_GOAT_MILK = GetModConfigData("charged_lightning_goat_milk")
+GLOBAL.CHARGED_LIGHTNING_GOAT_HORN_STATUS = GetModConfigData("charged_lightning_goat_horn_status")
+GLOBAL.CHARGED_LIGHTNING_GOAT_HORN = GetModConfigData("charged_lightning_goat_horn")
