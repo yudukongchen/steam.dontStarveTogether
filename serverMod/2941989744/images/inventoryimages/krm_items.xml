@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="krm_items.tex" />
+	<Elements>
+		<Element name="krm_armor.tex" u1="0.001" u2="0.124" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_book.tex" u1="0.126" u2="0.249" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_broom.tex" u1="0.001" u2="0.124" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_bullet1.tex" u1="0.126" u2="0.249" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_bullet10.tex" u1="0.001" u2="0.124" v2="0.249" v1="0.001" variant="" />
+		<Element name="krm_bullet11.tex" u1="0.126" u2="0.249" v2="0.249" v1="0.001" variant="" />
+		<Element name="krm_bullet12.tex" u1="0.251" u2="0.374" v2="0.249" v1="0.001" variant="" />
+		<Element name="krm_bullet2.tex" u1="0.251" u2="0.374" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_bullet3.tex" u1="0.376" u2="0.499" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_bullet4.tex" u1="0.251" u2="0.374" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_bullet5.tex" u1="0.376" u2="0.499" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_bullet6.tex" u1="0.001" u2="0.124" v2="0.499" v1="0.251" variant="" />
+		<Element name="krm_bullet7.tex" u1="0.126" u2="0.249" v2="0.499" v1="0.251" variant="" />
+		<Element name="krm_bullet8.tex" u1="0.251" u2="0.374" v2="0.499" v1="0.251" variant="" />
+		<Element name="krm_bullet9.tex" u1="0.376" u2="0.499" v2="0.499" v1="0.251" variant="" />
+		<Element name="krm_cane.tex" u1="0.376" u2="0.499" v2="0.249" v1="0.001" variant="" />
+		<Element name="krm_city.tex" u1="0.501" u2="0.624" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_crystal.tex" u1="0.626" u2="0.749" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_dregs.tex" u1="0.751" u2="0.874" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_flute.tex" u1="0.876" u2="0.999" v2="0.999" v1="0.751" variant="" />
+		<Element name="krm_gun.tex" u1="0.501" u2="0.624" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_icebox.tex" u1="0.626" u2="0.749" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_key.tex" u1="0.751" u2="0.874" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_knife.tex" u1="0.876" u2="0.999" v2="0.749" v1="0.501" variant="" />
+		<Element name="krm_magazine.tex" u1="0.501" u2="0.624" v2="0.499" v1="0.251" variant="" />
+		<Element name="krm_uniform.tex" u1="0.626" u2="0.749" v2="0.499" v1="0.251" variant="" />
+		<Element name="krm_zafkiel.tex" u1="0.751" u2="0.874" v2="0.499" v1="0.251" variant="" />
+	</Elements>
+</Atlas>

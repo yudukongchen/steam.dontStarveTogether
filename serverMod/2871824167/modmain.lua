@@ -1,0 +1,2 @@
+TUNING = GLOBAL.TUNING
+IsServer = GLOBAL.TheNet:GetIsServer()

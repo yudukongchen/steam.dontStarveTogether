@@ -1,0 +1,248 @@
+local L = KUANGSAN_LANGUAGE
+if L then
+    STRINGS.NAMES.KURUMI = "Kurumi "
+    STRINGS.CHARACTER_NAMES.kurumi = "Kurumi "
+    STRINGS.CHARACTER_TITLES.kurumi = "The Third Spirit "
+    STRINGS.CHARACTER_DESCRIPTIONS.kurumi = "The worst spirit who can manipulate time and shadow "
+    STRINGS.CHARACTER_SURVIVABILITY.kurumi = "Dominant"
+
+    STRINGS.SKIN_NAMES.kurumi_none = "Kurumi"
+
+    STRINGS.NAMES.KRM_PET1 = "Doubleganger "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_PET1 = "I am handing this to you, myself"
+
+    STRINGS.NAMES.KRM_ARMOR = "Rophocale"
+    STRINGS.RECIPE_DESC.KRM_ARMOR = "Time Emperor (Zafkiel) "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_ARMOR = "Come on Rophocale, it’s time for the show!"
+
+    STRINGS.NAMES.KRM_DREGS = "Time residue "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_DREGS = "A residue full of guilty"
+    STRINGS.NAMES.KRM_CRYSTAL = "Time crystal "
+    STRINGS.RECIPE_DESC.KRM_CRYSTAL = "Power of a spirit "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_CRYSTAL = "I need more power before I can kill Mio…"
+    STRINGS.NAMES.KRM_MAGAZINE = "Bullet Magazine"
+    STRINGS.RECIPE_DESC.KRM_MAGAZINE = "Storge for bullets? Maybe."
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_MAGAZINE =
+        "Why would I need to store bullets in this, it is a strange world.."
+    STRINGS.NAMES.KRM_ZAFKIEL = "Zafkiel "
+    STRINGS.RECIPE_DESC.KRM_ZAFKIEL = "Time Emperor (Zafkiel) "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_ZAFKIEL = "Come on Zafkiel, it’s your turn now!"
+    STRINGS.NAMES.KRM_GUN = "Flitlock Pistol&Musket "
+    STRINGS.RECIPE_DESC.KRM_GUN =
+        "时指墓棺碑刻罪，\n崎针转命悲愿催。\n狂倾花颜钟盘累，\n三曲谁鸣梦轮碎。"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_GUN = "You, are not accepted in Hell."
+    STRINGS.NAMES.KRM_KEY = "Michael"
+    STRINGS.RECIPE_DESC.KRM_KEY = ""
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_KEY = "Power from Mukuro"
+    STRINGS.NAMES.KRM_BROOM = "Haniel "
+    STRINGS.RECIPE_DESC.KRM_BROOM = ""
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BROOM = "It belongs to Natsumi"
+    STRINGS.NAMES.KRM_CANE = "Mistress’s Cane "
+    STRINGS.RECIPE_DESC.KRM_CANE = "Why would a mistress need this?"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_CANE = "Something is missing."
+    STRINGS.NAMES.KRM_KNIFE = "White Queen"
+    STRINGS.RECIPE_DESC.KRM_KNIFE = "It still hurts even if I can’t fell anything."
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_KNIFE = "Those lovely old days are gone, I lost everything."
+    STRINGS.NAMES.KRM_BOOK = "Rasiel "
+    STRINGS.RECIPE_DESC.KRM_BOOK = ""
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BOOK = "Such melodious power from Nia"
+    STRINGS.NAMES.KRM_FLUTE = "Gabriel "
+    STRINGS.RECIPE_DESC.KRM_FLUTE = "Miku’s Gabriel "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_FLUTE = "Your power has become week Miku"
+    STRINGS.NAMES.KRM_CITY = "City of Devouring of Time "
+    STRINGS.RECIPE_DESC.KRM_CITY = "More time for me"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_CITY = "Join me as a part of my time"
+    STRINGS.NAMES.KRM_ICEBOX = "Puppet"
+    STRINGS.RECIPE_DESC.KRM_ICEBOX = "Don’t bully Yoshino"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_ICEBOX = "Yoshino’s best friend——Youshinon!"
+    STRINGS.NAMES.KRM_UNIFORM = "School Uniform "
+    STRINGS.RECIPE_DESC.KRM_UNIFORM = "Let our date begin"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_UNIFORM = "How do you like this, Shido? "
+
+    STRINGS.NAMES.KRM_WANGGUAN = "绝灭天使"
+    STRINGS.RECIPE_DESC.KRM_WANGGUAN = "它或许以待真相，而后却是虚无"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_WANGGUAN = "它或许以待真相，而后却是虚无"
+
+    STRINGS.NAMES.KRM_BULLET1 = "First Bullet Aleph"
+    STRINGS.RECIPE_DESC.KRM_BULLET1 = "Increase target’s speed"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET1 = "Increase target’s speed"
+
+    STRINGS.NAMES.KRM_BULLET2 = "Second Bullet Bet"
+    STRINGS.RECIPE_DESC.KRM_BULLET2 = "Decrease target’s speed"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET2 = "Decrease target’s movement speed and attack speed on hit"
+
+    STRINGS.NAMES.KRM_BULLET3 = "Third Bullet Gimmel"
+    STRINGS.RECIPE_DESC.KRM_BULLET3 = "Target plant will grow"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET3 = "Crops grow to the next stage on hit"
+
+    STRINGS.NAMES.KRM_BULLET4 = "Fourth Bullet Dalet"
+    STRINGS.RECIPE_DESC.KRM_BULLET4 = "Heal the target"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET4 = "Recover target’s hp or time on hit"
+
+    STRINGS.NAMES.KRM_BULLET5 = "Fifth Bullet Hei"
+    STRINGS.RECIPE_DESC.KRM_BULLET5 = "Protection on target"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET5 = "Grants target protective force field"
+
+    STRINGS.NAMES.KRM_BULLET6 = "Sixth Bullet"
+    STRINGS.RECIPE_DESC.KRM_BULLET6 = "Switch location with target"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET6 = "Switch your location with target on hit"
+
+    STRINGS.NAMES.KRM_BULLET7 = "Seventh Bullet Zayin"
+    STRINGS.RECIPE_DESC.KRM_BULLET7 = "Freeze the target"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET7 = "Permanently freeze the target"
+
+    STRINGS.NAMES.KRM_BULLET8 = "Eighth Bullet Het"
+    STRINGS.RECIPE_DESC.KRM_BULLET8 = "Create your doubleganger "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET8 = "Target yourself to summon doubleganger"
+
+    STRINGS.NAMES.KRM_BULLET9 = "Ninth Bullet Tet"
+    STRINGS.RECIPE_DESC.KRM_BULLET9 = "Shuttle map"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET9 = "Shuttle map"
+
+    STRINGS.NAMES.KRM_BULLET10 = "Tenth Bullet Yud"
+    STRINGS.RECIPE_DESC.KRM_BULLET10 = "Craft at will"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET10 = "The Everything Encyclopedia"
+
+    STRINGS.NAMES.KRM_BULLET11 = "Eleventh Bullet Yud Aleph"
+    STRINGS.RECIPE_DESC.KRM_BULLET11 = "Put forward one season"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET11 = "Put forward one season on hit"
+
+    STRINGS.NAMES.KRM_BULLET12 = "Twelfth Bullet Yud Bet"
+    STRINGS.RECIPE_DESC.KRM_BULLET12 = "Put backward one season "
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET12 = "Put backward one season on hit"
+    STRINGS.CHARACTERS.KURUMI = require "speech_kurumi"
+
+STRINGS.NAMES.CAMAEL = "灼烂歼鬼"
+STRINGS.CHARACTERS.GENERIC.CAMAEL = "琴里精灵化所显现的天使为火之天使‐灼烂歼鬼，是一把带着火焰的巨大战斧，威力强大"
+STRINGS.RECIPE_CAMAEL = "灼烂歼鬼"
+STRINGS.RECIPE_DESC.CAMAEL = "琴里精灵化显现的天使武器"
+
+    STRINGS.NAMES.KRM_MEOWBAG = "喵老师"
+    STRINGS.RECIPE_DESC.KRM_MEOWBAG = "喵？！"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_MEOWBAG = "啊啦啊啦，真是可爱呢"
+
+else
+    STRINGS.NAMES.KURUMI = "时崎狂三"
+    STRINGS.CHARACTER_NAMES.kurumi = "时崎狂三"
+    STRINGS.CHARACTER_TITLES.kurumi = "第三精灵·时崎狂三"
+    STRINGS.CHARACTER_DESCRIPTIONS.kurumi = "永不退转的灾厄,支配时间和暗影的第三精灵"
+    STRINGS.CHARACTER_SURVIVABILITY.kurumi = "肆意妄为"
+
+    STRINGS.SKIN_NAMES.kurumi_none = "时崎狂三"
+
+    STRINGS.NAMES.KRM_PET1 = "分身"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_PET1 = "交给你了，另一个我。"
+
+    STRINGS.NAMES.KRM_ARMOR = "狂狂帝"
+    STRINGS.RECIPE_DESC.KRM_ARMOR = "时之天使(Zafkiel)"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_ARMOR = "来吧,狂狂帝,到你出场了!"
+
+    STRINGS.NAMES.KRM_DREGS = "时间残渣"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_DREGS = "充满罪孽的残留"
+    STRINGS.NAMES.KRM_CRYSTAL = "时间结晶"
+    STRINGS.RECIPE_DESC.KRM_CRYSTAL = "精灵的力量之源"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_CRYSTAL = "在杀死澪之前,我还需要更多力量..."
+    STRINGS.NAMES.KRM_MAGAZINE = "弹匣"
+    STRINGS.RECIPE_DESC.KRM_MAGAZINE = "可以用来装子弹?大概."
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_MAGAZINE = "我为什么需要这东西来装子弹,这世界真奇怪..."
+    STRINGS.NAMES.KRM_ZAFKIEL = "刻刻帝"
+    STRINGS.RECIPE_DESC.KRM_ZAFKIEL = "时之天使(Zafkiel)"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_ZAFKIEL = "来吧,刻刻帝,到你出场了!"
+    STRINGS.NAMES.KRM_GUN = "十二时之枪"
+    STRINGS.RECIPE_DESC.KRM_GUN =
+        "时指墓棺碑刻罪，\n崎针转命悲愿催。\n狂倾花颜钟盘累，\n三曲谁鸣梦轮碎。"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_GUN = "你，连地狱都下不去。"
+    STRINGS.NAMES.KRM_KEY = "封解主"
+    STRINGS.RECIPE_DESC.KRM_KEY = ""
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_KEY = "来自星宫六喰的力量"
+    STRINGS.NAMES.KRM_BROOM = "赝造魔女"
+    STRINGS.RECIPE_DESC.KRM_BROOM = ""
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BROOM = "七罪那家伙的东西"
+    STRINGS.NAMES.KRM_CANE = "大小姐的手杖"
+    STRINGS.RECIPE_DESC.KRM_CANE = "真的会有大小姐用这个？"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_CANE = "它可能需要一些东西才能完整"
+    STRINGS.NAMES.KRM_KNIFE = "白之女王"
+    STRINGS.RECIPE_DESC.KRM_KNIFE =
+        "应该已经没有任何可以留恋的东西了，为什么我的心还会痛的？"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_KNIFE =
+        "再也回不到从前，失去了原本拥有的一切，最初的幸福，也消失不见"
+    STRINGS.NAMES.KRM_BOOK = "嗫告篇帙"
+    STRINGS.RECIPE_DESC.KRM_BOOK = ""
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BOOK = "二亚的力量真是甜美啊"
+    STRINGS.NAMES.KRM_FLUTE = "破军歌姬"
+    STRINGS.RECIPE_DESC.KRM_FLUTE = "美九的管风琴"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_FLUTE = "美九？当初那麻烦的力量已经衰弱至此了吗"
+    STRINGS.NAMES.KRM_CITY = "食时之城"
+    STRINGS.RECIPE_DESC.KRM_CITY = "用来补充时间的结界"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_CITY = "成为我力量的一部分吧"
+    STRINGS.NAMES.KRM_ICEBOX = "兔子人偶"
+    STRINGS.RECIPE_DESC.KRM_ICEBOX = "你也是来欺负四糸乃的吗!"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_ICEBOX = "四糸乃最好的朋友四——四糸奈"
+    STRINGS.NAMES.KRM_UNIFORM = "校服"
+    STRINGS.RECIPE_DESC.KRM_UNIFORM = "开始我们的约会吧"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_UNIFORM = "士道，想看吗？"
+
+    STRINGS.NAMES.KRM_WANGGUAN = "绝灭天使"
+    STRINGS.RECIPE_DESC.KRM_WANGGUAN = "它或许以待真相，而后却是虚无"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_WANGGUAN = "它或许以待真相，而后却是虚无"
+
+    STRINGS.NAMES.KRM_BULLET1 = "一之弹:加速"
+    STRINGS.RECIPE_DESC.KRM_BULLET1 = "击中目标可使目标提升速度"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET1 = "击中目标可使目标提升速度"
+
+    STRINGS.NAMES.KRM_BULLET2 = "二之弹:减速"
+    STRINGS.RECIPE_DESC.KRM_BULLET2 = "击中目标可使目标速度降低"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET2 = "击中目标可使目标速度降低"
+
+    STRINGS.NAMES.KRM_BULLET3 = "三之弹:催熟"
+    STRINGS.RECIPE_DESC.KRM_BULLET3 = "击中目标可使植物生长"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET3 = "击中目标可使植物生长"
+
+    STRINGS.NAMES.KRM_BULLET4 = "四之弹:治疗"
+    STRINGS.RECIPE_DESC.KRM_BULLET4 = "击中目标可使目标回血"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET4 = "击中目标可使目标回血"
+
+    STRINGS.NAMES.KRM_BULLET5 = "五之弹:护盾"
+    STRINGS.RECIPE_DESC.KRM_BULLET5 = "击中目标可使目标增加护盾"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET5 = "击中目标可使目标增加护盾"
+
+    STRINGS.NAMES.KRM_BULLET6 = "六之弹:换位"
+    STRINGS.RECIPE_DESC.KRM_BULLET6 = "击中目标双方交换位置"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET6 = "击中目标双方交换位置"
+
+    STRINGS.NAMES.KRM_BULLET7 = "七之弹:时停"
+    STRINGS.RECIPE_DESC.KRM_BULLET7 = "冻结世界时间十秒"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET7 = "冻结世界时间十秒"
+
+    STRINGS.NAMES.KRM_BULLET8 = "八之弹:分身"
+    STRINGS.RECIPE_DESC.KRM_BULLET8 = "击中狂三可召唤分身,击中分身可回收分身"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET8 = "击中狂三可召唤分身,击中分身可回收分身"
+
+    STRINGS.NAMES.KRM_BULLET9 = "九之弹:穿梭地图"
+    STRINGS.RECIPE_DESC.KRM_BULLET9 = "击中玩家后，玩家可打开地图瞬移"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET9 = "击中玩家后，玩家可打开地图瞬移"
+
+    STRINGS.NAMES.KRM_BULLET10 = "十之弹:解锁科技"
+    STRINGS.RECIPE_DESC.KRM_BULLET10 = "击中目标解锁一次科技"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET10 = "击中目标解锁一次科技"
+
+    STRINGS.NAMES.KRM_BULLET11 = "十一之弹:推进季节"
+    STRINGS.RECIPE_DESC.KRM_BULLET11 = "击中任意目标可推进季节"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET11 = "击中任意目标可推进季节"
+
+    STRINGS.NAMES.KRM_BULLET12 = "十二之弹:回溯季节"
+    STRINGS.RECIPE_DESC.KRM_BULLET12 = "击中任意目标可回溯季节"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_BULLET12 = "击中任意目标可回溯季节"
+    STRINGS.CHARACTERS.KURUMI = require "speech_kurumi"
+
+    STRINGS.NAMES.KRM_MEOWBAG = "喵老师"
+    STRINGS.RECIPE_DESC.KRM_MEOWBAG = "喵？！"
+    STRINGS.CHARACTERS.GENERIC.DESCRIBE.KRM_MEOWBAG = "啊啦啊啦，真是可爱呢"
+
+	STRINGS.NAMES.CAMAEL = "灼烂歼鬼"
+	STRINGS.CHARACTERS.GENERIC.CAMAEL = "琴里精灵化所显现的天使为火之天使‐灼烂歼鬼，是一把带着火焰的巨大战斧，威力强大"
+	STRINGS.RECIPE_CAMAEL = "灼烂歼鬼"
+	STRINGS.RECIPE_DESC.CAMAEL = "琴里精灵化显现的天使武器"
+
+end
+

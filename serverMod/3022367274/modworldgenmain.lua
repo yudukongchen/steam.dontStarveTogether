@@ -1,0 +1,19 @@
+-- require("map/tasks")
+-- require("map/lockandkey")
+-- local Layouts = require("map/layouts").Layouts
+-- local StaticLayout = require("map/static_layout")
+-- -- 将刚定义的地图放在静态地图表里
+-- Layouts["kw_island"] = StaticLayout.Get("map/static_layouts/kw_island", {
+--     start_mask = GLOBAL.PLACE_MASK.IGNORE_IMPASSABLE_BARREN_RESERVED,
+--     fill_mask = GLOBAL.PLACE_MASK.IGNORE_IMPASSABLE_BARREN_RESERVED,
+--     layout_position = GLOBAL.LAYOUT_POSITION.CENTER,
+--     disable_transform = true
+-- })
+-- -- ocean_prefill_setpieces 这个对象里的地形都是随机生成在海上的
+-- AddLevelPreInitAny(function(level)
+--     if level.location == "forest" then -- forest 是森林，就是主世界
+--         if level.ocean_prefill_setpieces ~= nil then
+--             level.ocean_prefill_setpieces["kw_island"] = {count = 1} -- count 表示要生成几个
+--         end
+--     end
+-- end)
