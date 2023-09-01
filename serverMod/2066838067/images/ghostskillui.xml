@@ -1,0 +1,13 @@
+<Atlas>
+	<Texture filename="ghostskillui.tex" />
+    <Elements>
+        <Element name="ghostskill1.tex" u1="0" u2="0.1933594" v1="0.7041016" v2="1" />
+        <Element name="ghostskill2.tex" u1="0.1933594" u2="0.3867188" v1="0.7041016" v2="1" />
+        <Element name="ghostskill3.tex" u1="0.3867188" u2="0.5800781" v1="0.7041016" v2="1" />
+        <Element name="ghostskill4.tex" u1="0.5800781" u2="0.7734375" v1="0.7041016" v2="1" />
+        <Element name="ghostskill_image1.tex" u1="0.7734375" u2="0.8125" v1="0.9594727" v2="1" />
+        <Element name="ghostskill_image2.tex" u1="0.8125" u2="0.8515625" v1="0.9594727" v2="1" />
+        <Element name="ghostskill_image3.tex" u1="0.8515625" u2="0.890625" v1="0.9594727" v2="1" />
+        <Element name="ghostskill_image4.tex" u1="0.890625" u2="0.9296875" v1="0.9594727" v2="1" />
+    </Elements>
+</Atlas>

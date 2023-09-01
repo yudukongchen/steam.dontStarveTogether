@@ -1,0 +1,14 @@
+<Atlas>
+	<Texture filename="tzxx_xht.tex" />
+    <Elements>
+        <Element name="renwu-1.tex" u1="0" u2="0.1464844" v1="0.7900391" v2="1" />
+        <Element name="renwu-2.tex" u1="0.1464844" u2="0.2929688" v1="0.7900391" v2="1" />
+        <Element name="renwu-3.tex" u1="0.2929688" u2="0.4394531" v1="0.7900391" v2="1" />
+        <Element name="renwu-4.tex" u1="0.4394531" u2="0.5859375" v1="0.7900391" v2="1" />
+        <Element name="renwu-5.tex" u1="0.5859375" u2="0.7324219" v1="0.7900391" v2="1" />
+        <Element name="renwu-6.tex" u1="0.7324219" u2="0.8789063" v1="0.7900391" v2="1" />
+        <Element name="renwu-7.tex" u1="0" u2="0.1464844" v1="0.5800781" v2="0.7900391" />
+        <Element name="renwu-8.tex" u1="0.1464844" u2="0.2929688" v1="0.5800781" v2="0.7900391" />
+        <Element name="renwu-9.tex" u1="0.2929688" u2="0.4394531" v1="0.5800781" v2="0.7900391" />
+    </Elements>
+</Atlas>

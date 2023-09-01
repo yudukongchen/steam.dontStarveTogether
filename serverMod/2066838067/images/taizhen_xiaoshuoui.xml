@@ -1,0 +1,11 @@
+<Atlas>
+	<Texture filename="taizhen_xiaoshuoui.tex" />
+    <Elements>
+        <Element name="image-2.tex" u1="0" u2="0.4926758" v1="0.6611328" v2="1" />
+        <Element name="image-0.tex" u1="0.4926758" u2="0.6689453" v1="0.6933594" v2="1" />
+        <Element name="bookback1.tex" u1="0.6689453" u2="0.8100586" v1="0.9404297" v2="1" />
+        <Element name="image.tex" u1="0.8100586" u2="0.9511719" v1="0.9404297" v2="1" />
+        <Element name="image-1.tex" u1="0" u2="0.07373047" v1="0.6333008" v2="0.6611328" />
+        <Element name="image-4.tex" u1="0.07373047" u2="0.09472656" v1="0.6401367" v2="0.6611328" />
+    </Elements>
+</Atlas>

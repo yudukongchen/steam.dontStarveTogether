@@ -1,0 +1,20 @@
+<Atlas>
+	<Texture filename="tzxx_back.tex" />
+    <Elements>
+        <Element name="background.tex" u1="0" u2="0.6347656" v1="0.5336914" v2="1" />
+        <Element name="level-1.tex" u1="0.6347656" u2="0.7768555" v1="0.7797852" v2="1" />
+        <Element name="level-2.tex" u1="0.7768555" u2="0.9189453" v1="0.7797852" v2="1" />
+        <Element name="level-3.tex" u1="0" u2="0.1420898" v1="0.3134766" v2="0.5336914" />
+        <Element name="level-4.tex" u1="0.1420898" u2="0.2841797" v1="0.3134766" v2="0.5336914" />
+        <Element name="level-5.tex" u1="0.2841797" u2="0.4262695" v1="0.3134766" v2="0.5336914" />
+        <Element name="level-6.tex" u1="0.4262695" u2="0.5683594" v1="0.3134766" v2="0.5336914" />
+        <Element name="level-7.tex" u1="0.5683594" u2="0.7104492" v1="0.3134766" v2="0.5336914" />
+        <Element name="level-8.tex" u1="0.7104492" u2="0.8525391" v1="0.3134766" v2="0.5336914" />
+        <Element name="level-9.tex" u1="0.8525391" u2="0.9946289" v1="0.3134766" v2="0.5336914" />
+        <Element name="bigname.tex" u1="0" u2="0.3417969" v1="0.1621094" v2="0.3134766" />
+        <Element name="esc.tex" u1="0.3417969" u2="0.4438477" v1="0.2597656" v2="0.3134766" />
+        <Element name="beijing.tex" u1="0.4438477" u2="0.7368164" v1="0.2597656" v2="0.3134766" />
+        <Element name="tishi-1.tex" u1="0.7368164" u2="0.7470703" v1="0.3007813" v2="0.3134766" />
+        <Element name="tishi-2.tex" u1="0.7470703" u2="0.7573242" v1="0.3007813" v2="0.3134766" />
+    </Elements>
+</Atlas>

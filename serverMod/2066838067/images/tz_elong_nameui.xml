@@ -1,0 +1,9 @@
+<Atlas>
+	<Texture filename="tz_elong_nameui.tex" />
+    <Elements>
+        <Element name="2.tex" u1="0" u2="0.5820313" v1="0.8847656" v2="1" />
+        <Element name="3.tex" u1="0.5820313" u2="0.6894531" v1="0.9023438" v2="1" />
+        <Element name="1.tex" u1="0" u2="0.3789063" v1="0.7910156" v2="0.8847656" />
+        <Element name="4.tex" u1="0.3789063" u2="0.4804688" v1="0.7910156" v2="0.8847656" />
+    </Elements>
+</Atlas>

@@ -1,0 +1,11 @@
+<Atlas>
+	<Texture filename="ui.tex" />
+    <Elements>
+        <Element name="back.tex" u1="0" u2="0.3095703" v1="0.5488281" v2="1" />
+        <Element name="gundong.tex" u1="0.3095703" u2="0.3476563" v1="0.7099609" v2="1" />
+        <Element name="button2.tex" u1="0.3476563" u2="0.3984375" v1="0.9414063" v2="1" />
+        <Element name="button.tex" u1="0.3984375" u2="0.4492188" v1="0.9414063" v2="1" />
+        <Element name="dest1.tex" u1="0.4492188" u2="0.6318359" v1="0.9492188" v2="1" />
+        <Element name="dest.tex" u1="0.6318359" u2="0.8144531" v1="0.9492188" v2="1" />
+    </Elements>
+</Atlas>

@@ -1,0 +1,14 @@
+<Atlas>
+	<Texture filename="tzxx_ren.tex" />
+    <Elements>
+        <Element name="people-1.tex" u1="0" u2="0.2148438" v1="0.7265625" v2="1" />
+        <Element name="people-2.tex" u1="0.2148438" u2="0.4296875" v1="0.7265625" v2="1" />
+        <Element name="people-3.tex" u1="0.4296875" u2="0.6445313" v1="0.7265625" v2="1" />
+        <Element name="people-4.tex" u1="0.6445313" u2="0.859375" v1="0.7265625" v2="1" />
+        <Element name="people-5.tex" u1="0" u2="0.2148438" v1="0.453125" v2="0.7265625" />
+        <Element name="people-6.tex" u1="0.2148438" u2="0.4296875" v1="0.453125" v2="0.7265625" />
+        <Element name="people-7.tex" u1="0.4296875" u2="0.6445313" v1="0.453125" v2="0.7265625" />
+        <Element name="people-8.tex" u1="0.6445313" u2="0.859375" v1="0.453125" v2="0.7265625" />
+        <Element name="people-9.tex" u1="0" u2="0.2148438" v1="0.1796875" v2="0.453125" />
+    </Elements>
+</Atlas>

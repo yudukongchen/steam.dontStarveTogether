@@ -1,0 +1,21 @@
+<Atlas>
+	<Texture filename="tzxx_back.tex" />
+    <Elements>
+        <Element name="background_1.tex" u1="0" u2="0.3320313" v1="0.7509766" v2="1" />
+        <Element name="background_2.tex" u1="0.3320313" u2="0.6640625" v1="0.7509766" v2="1" />
+        <Element name="background_3.tex" u1="0.6640625" u2="0.9960938" v1="0.7509766" v2="1" />
+        <Element name="background_4.tex" u1="0" u2="0.3320313" v1="0.5019531" v2="0.7509766" />
+        <Element name="bigname.tex" u1="0.3320313" u2="0.6738281" v1="0.5996094" v2="0.7509766" />
+        <Element name="beijing.tex" u1="0.6738281" u2="0.9667969" v1="0.6972656" v2="0.7509766" />
+        <Element name="esc.tex" u1="0" u2="0.1025391" v1="0.4482422" v2="0.5019531" />
+        <Element name="tishi-1.tex" u1="0.1025391" u2="0.2202148" v1="0.4526367" v2="0.5019531" />
+        <Element name="tishi-2.tex" u1="0.2202148" u2="0.3378906" v1="0.4526367" v2="0.5019531" />
+        <Element name="tishi-3.tex" u1="0.3378906" u2="0.4555664" v1="0.4526367" v2="0.5019531" />
+        <Element name="tishi-4.tex" u1="0.4555664" u2="0.5732422" v1="0.4526367" v2="0.5019531" />
+        <Element name="tishi-5.tex" u1="0.5732422" u2="0.690918" v1="0.4526367" v2="0.5019531" />
+        <Element name="tishi-6.tex" u1="0.690918" u2="0.8085938" v1="0.4526367" v2="0.5019531" />
+        <Element name="tishi-7.tex" u1="0.8085938" u2="0.9262695" v1="0.4526367" v2="0.5019531" />
+        <Element name="tishi-8.tex" u1="0" u2="0.1176758" v1="0.3989258" v2="0.4482422" />
+        <Element name="tishi-9.tex" u1="0.1176758" u2="0.2353516" v1="0.3989258" v2="0.4482422" />
+    </Elements>
+</Atlas>
