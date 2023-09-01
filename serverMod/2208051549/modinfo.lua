@@ -48,17 +48,13 @@ configuration_options = {
 		options =
 		{
       {description = "30(默认)", data = 30},
-      {description = "35", data = 35},
-      {description = "40", data = 40},
-      {description = "45", data = 45},
-      {description = "50", data = 50},
-      {description = "55", data = 55},
+    --修改生命值配置项
       {description = "60", data = 60},
-      {description = "66", data = 66},
-      {description = "70", data = 70},
-      {description = "75", data = 75},
-      {description = "80", data = 80},
-			{description = "113", data = 113},  
+      {description = "100", data = 100},
+      {description = "150", data = 150},
+      {description = "200", data = 200},
+      {description = "300", data = 300},
+      {description = "400", data = 400},
 		},
 		default = 30,
 	},

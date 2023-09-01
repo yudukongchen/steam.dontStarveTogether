@@ -517,7 +517,8 @@ local master_postinit = function(inst)
 
 	-- 三维	
 	inst.components.health:SetMaxHealth(TUNING.DITING_HEALTH)
-	inst.components.hunger:SetMax(150)
+-- 	inst.components.hunger:SetMax(150)  修改饥饿值
+	inst.components.hunger:SetMax(350)
 	inst.components.sanity:SetMax(150)
 	
 	-- 伤害系数
