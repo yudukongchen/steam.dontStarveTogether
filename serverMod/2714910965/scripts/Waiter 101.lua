@@ -1,0 +1,179 @@
+local STRINGS = GLOBAL.STRINGS
+
+STRINGS.NAMES.ACK_MUFFIN = "方便饼"
+	-- Breads (x4)
+STRINGS.NAMES.SHAMCAKES = "浆果煎饼"
+STRINGS.NAMES.NANA_BREAD = "香蕉面包"
+STRINGS.NAMES.HARDTACK = "硬饼干"
+STRINGS.NAMES.FRUIT_MUFFIN = "水果鬆餅"
+
+	-- Cakes & Pies (x5)
+STRINGS.NAMES.SPICED_CAKE = "节日蛋糕" -- Honeyed, HOT
+STRINGS.NAMES.CACTUS_CAKE = "仙人掌蛋糕" -- Requires Cactus
+STRINGS.NAMES.MERINGUE = "酥皮馅饼"
+STRINGS.NAMES.TARTE_TATIN = "好吃的蛋糕"
+STRINGS.NAMES.STICKY_BUN = "糯米面包" -- Honeyed
+	-- Candies & Sugars (x5+)
+STRINGS.NAMES.CANDY_SPONGE = "海綿糖" -- Honeyed
+STRINGS.NAMES.MUSH_MELON = "棉菇糖" -- Honeyed
+STRINGS.NAMES.MUSH_MELON_COOKED = "烤菇瓜软糖" -- Honeyed
+STRINGS.NAMES.CANDIED_NUT = "糖坚果" -- Honeyed
+STRINGS.NAMES.CANDIED_FRUIT = "蜜饯" -- Honeyed
+STRINGS.NAMES.CANDIED_BACON = "焦糖培根" -- Honeyed
+	-- Eggs (x5)
+STRINGS.NAMES.OMELETTE = "蓬松煎蛋"
+STRINGS.NAMES.NOPALITO = "棘手鸡蛋" -- Requires Cactus
+STRINGS.NAMES.SALAD_EGG = "鸡蛋沙拉"
+STRINGS.NAMES.EGG_FOO_YUNG = "芙蓉蛋"
+STRINGS.NAMES.MUSHY_EGGS = "糊狀的鸡蛋"
+	-- Fruits (x4)
+STRINGS.NAMES.LIMONADE = "柑橘饮料" -- COLD - Requires Ice
+STRINGS.NAMES.LIMONGELO = "明胶"
+STRINGS.NAMES.FRUIT_LEATHER = "水果皮"
+STRINGS.NAMES.FRUIT_TRUFFLE = "水果松露" -- Requires Dairy (not fat/butter/oleo)
+
+	-- Ice Recipes (x4)
+STRINGS.NAMES.SOUP_BROTH = "肉类汤" -- Requires Ice
+STRINGS.NAMES.JUICE_WATERBERRY = "水果泥" -- COLD - Requires Ice
+STRINGS.NAMES.SOUP_WATERCRESS = "西洋菜汤" --Requires Ice
+STRINGS.NAMES.TEA_FLORAL = "凉茶" --Requires Ice
+
+	-- Ingredients	(x5)
+STRINGS.NAMES.OLEO = "人造黃油" -- Ingredient: Dairy, Fat
+STRINGS.NAMES.FLOUR_GROUND = "磨粉" -- Ingredient: Flour, Requires Flora
+STRINGS.NAMES.FRUIT_SYRUP = "粘糖浆" -- Honeyed, Ingredient: Sweetener, Fruit
+STRINGS.NAMES.MOLASSES = "糖蜜" -- Honeyed, Ingredient: Sweetener, Requires Mole
+STRINGS.NAMES.COCONUT_MILK = "椰奶" -- Ingredient: Dairy, Requires Ice
+	-- Liquors (x5+)
+STRINGS.NAMES.LIQUOR = "酒" -- Cold - requires Ice
+STRINGS.NAMES.MARGARITA = "玛格丽特酒" -- Cold - requires Ice
+STRINGS.NAMES.PINA_COLADA = "菠萝汁朗姆酒" -- Cold - requires Ice
+STRINGS.NAMES.DAIQUIRI = "代基里酒" -- Cold - requires Ice
+STRINGS.NAMES.VINO = "葡萄酒" -- Cold - requires Ice
+STRINGS.NAMES.PINOT_NOIR = "老酒"
+	-- Meats (Beef) (x5)
+STRINGS.NAMES.BEEF_BUTTER = "黄油牛肉"
+STRINGS.NAMES.KIYMALI_PIDE = "土耳其大饼"
+STRINGS.NAMES.COLDCUTS = "意大利火腿" -- COLD - Requires Ice
+STRINGS.NAMES.BRACIOLE = "牛排卷"
+STRINGS.NAMES.BEEF_STIRFRY = "炸牛肉"
+	-- Meats (Pork) (x5+)
+STRINGS.NAMES.SAUSAGE_GRAVY = "香肠和肉汁"
+STRINGS.NAMES.DUMPLING_PORK = "蒸饺"
+STRINGS.NAMES.SPICED_SAUSAGE = "麻辣大香肠" -- HOT
+STRINGS.NAMES.SAUSAGE_COOKED = "烤香肠" -- HOT
+STRINGS.NAMES.SAUSAGE_DRIED = "干香肠"
+STRINGS.NAMES.SPICED_HAM = "假日火腿" -- HOT 
+STRINGS.NAMES.SWEET_N_SOUR = "糖醋饭"
+	-- Meats (Poultry)  (x5)
+STRINGS.NAMES.LO_MEIN_CHICKEN = "鸡肉炒面"
+STRINGS.NAMES.BEEFALO_WINGS = "野牛翅膀" -- HOT
+STRINGS.NAMES.ROLLATINI = "鸡肉卷"
+STRINGS.NAMES.PICATTA = "柑橘鸡"
+STRINGS.NAMES.SALAD_WALDORF = "华道夫沙拉"
+	-- Meats (Seafood)  (x5)
+STRINGS.NAMES.SURF_N_TURF = "鱼香肉丝" -- Latin translation "Surf Turffe" use 'Land and Sea Plate' for foreign translations
+STRINGS.NAMES.TENTACICLE = "触须"
+STRINGS.NAMES.STUFFED_TOMANGO = "海鲜酿蔬菜"
+STRINGS.NAMES.FISH_N_CHIPS = "炸鱼薯条"
+STRINGS.NAMES.SLURRY_SEAFOOD = "海鲜酱"
+	-- Meats (Shellfish)  (x5)
+STRINGS.NAMES.LOBSTER_FAKED = "烤龙虾"
+STRINGS.NAMES.SHELLFISH_BUTTER = "炒贝类"
+STRINGS.NAMES.CAKE_CRAB = "螃蟹蛋糕" -- Requires crabbit, A meat based cake
+STRINGS.NAMES.TEMPURA_SHRIMP = "脆皮天妇罗"
+STRINGS.NAMES.SCALLOPS_SPICY = "四川扇贝" -- Four Circuits
+	-- Monster	(x2)
+STRINGS.NAMES.BEEF_MAXWELL = "惠灵顿牛肉" -- Requires Monster
+STRINGS.NAMES.DURIAN_DELIGHT = "幸运蛋糕" -- 'daifuku' Requires Monster/Fruit
+STRINGS.NAMES.HAKARL = "酸菜鱼" -- 'Hakarl' Requires Monster/Fish
+STRINGS.NAMES.MONSTER_BURGER = "野兽汉堡" -- Requires Monster
+
+	-- Mushrooms (x4)
+STRINGS.NAMES.MUSHROOM_MEDLEY = "蘑菇杂烩"
+STRINGS.NAMES.MUSHROOM_BURGER = "蘑菇汉堡"
+STRINGS.NAMES.CITRUS_MUSHROOM = "柑橘蘑菇"
+STRINGS.NAMES.MUSHROOM_STEW = "蘑菇炖"
+
+	-- Nuts and Seeds (x4+)
+STRINGS.NAMES.NUT_BUTTER = "坚果黄油" -- Requires Nut
+STRINGS.NAMES.KUNG_PAO  = "宫保肉"
+STRINGS.NAMES.CHEESE_LOG = "奶酪原木" -- Requires Dairy (not butter/oleo)
+STRINGS.NAMES.PORRIDGE = "稀饭"
+STRINGS.NAMES.GRUEL = "剩粥"
+
+	-- Salads (x4)
+STRINGS.NAMES.SALAD_CARROT = "柑橘沙拉" 
+STRINGS.NAMES.SALAD_GRAPE = "葡萄沙拉"
+STRINGS.NAMES.SALAD_YAMION = "蔬菜沙拉"
+STRINGS.NAMES.SALAD_BLOOM = "野花沙拉"
+
+	-- Sandwiches(x5)
+STRINGS.NAMES.SANDWICH_BLT = "简单的三明治"
+STRINGS.NAMES.SANDWICH_BLT_HALF = "半三明治"
+STRINGS.NAMES.SANDWICH_VEGGIE = "蔬菜三明治"	
+STRINGS.NAMES.SANDWICH_VEGGIE_HALF = "三明治一半"
+STRINGS.NAMES.SANDWICH_CROQUE = "法国三明治"	
+STRINGS.NAMES.SANDWICH_CROQUE_HALF = "法式三明治一半"
+STRINGS.NAMES.SANDWICH_BANANA = "香蕉三明治"
+STRINGS.NAMES.SANDWICH_BANANA_HALF = "半个香蕉三明治"
+STRINGS.NAMES.SANDWICH_JAM = "果酱三明治"
+STRINGS.NAMES.SANDWICH_JAM_HALF = "半果酱三明治"
+	-- Snacks (x5)
+STRINGS.NAMES.TAKOYAKI = "章鱼烧"
+STRINGS.NAMES.YAMION_RINGS = "洋葱圈"
+STRINGS.NAMES.POPCORN_BUTTERY = "黄油爆米花"
+STRINGS.NAMES.TWICE_BAKED = "双烤块茎"
+STRINGS.NAMES.ALOO_TIKI = "烤炸丸子"
+	-- Soups (x5)
+STRINGS.NAMES.SOUP_SQUASH = "南瓜汤" -- Requires Nut
+STRINGS.NAMES.CACTUS_SOUP = "仙人掌汤" -- Requires Cactus
+STRINGS.NAMES.SOUP_CHOWDER = "海鲜杂烩"
+STRINGS.NAMES.GUMBO = "什锦炖" -- HOT
+STRINGS.NAMES.COLD_GAZPACHO = "西班牙凉菜汤" -- COLD - requires Ice
+	-- Spiced Foods (x5)
+STRINGS.NAMES.DRAGON_ROLL = "龙卷寿司" -- Sushi Roll w/ Dragon Fruit -- HOT (Low heat for very long period)
+STRINGS.NAMES.SPICED_RUM = "五香朗姆酒" -- HOT (As Daiquri but hot instead of cold)
+STRINGS.NAMES.PIKO_SALSA = "皮可酱" -- HOT
+STRINGS.NAMES.SPICED_FISH = "韩式汤" -- HOT (Korean Fish Stew)
+STRINGS.NAMES.SALAD_SPICED = "泰式沙拉" -- HOT
+	-- Bonus & Hidden Recipes	(x4)
+STRINGS.NAMES.CASSEROLE = "炖锅菜" -- Ingredient: Meat, Veggie, Precook
+STRINGS.NAMES.MOONCAKE_SIMPLE = "月饼" -- Catchall for flour
+STRINGS.NAMES.MUSHROOM_MALODY = "蘑菇混合"
+STRINGS.NAMES.LEFTOVERS = "剩菜剩饭"
+
+	-- Crops & Seeds
+STRINGS.NAMES.GRAPRICOT = "杏葡萄" -- Apricot Grape
+STRINGS.NAMES.GRAPRICOT_COOKED = "炖杏葡萄"
+STRINGS.NAMES.GRAPRICOT_DRIED = "干杏葡萄"
+STRINGS.NAMES.GRAPRICOT_SEEDS = "杏葡萄种子"
+STRINGS.NAMES.TOMANGO = "番茄果" -- Tomato Fruit
+STRINGS.NAMES.TOMANGO_COOKED = "熟番茄果"
+STRINGS.NAMES.TOMANGO_DRIED = "干番茄果"
+STRINGS.NAMES.TOMANGO_SEEDS = "番茄果种子"
+STRINGS.NAMES.LIMON = "柠檬" -- sour lime
+STRINGS.NAMES.LIMON_COOKED = "烤柠檬"
+STRINGS.NAMES.LIMON_SEEDS = "柠檬种子"
+STRINGS.NAMES.YAMION = "土豆青葱" -- Potato Shallot
+STRINGS.NAMES.YAMION_COOKED = "烤土豆青葱"
+STRINGS.NAMES.YAMION_SEEDS = "土豆青葱种子"
+STRINGS.NAMES.GARLEEK = "蒜瓣" -- Leek Garlic
+STRINGS.NAMES.GARLEEK_COOKED = "烤蒜瓣"
+STRINGS.NAMES.ROCKY_MEAT = "岩龙虾尾巴"
+STRINGS.NAMES.ROCKY_MEAT_COOKED = "烤尾"
+STRINGS.NAMES.TENTACLE_MEAT = "鱿鱼须"
+STRINGS.NAMES.TENTACLE_MEAT_COOKED = "鱿鱼圈"
+STRINGS.NAMES.RUTABEETA = "大头菜"
+STRINGS.NAMES.RUTABEETA_COOKED = "煮大头菜"
+STRINGS.NAMES.RUTABEETA_PLANT = "野生大头菜"
+STRINGS.NAMES.RUTABEETA_SEEDS = "大头菜种子"
+STRINGS.NAMES.GUAVACADO_COOKED = "烤番石榴"
+STRINGS.NAMES.GUAVACADO = "番石榴"
+STRINGS.NAMES.GUAVACADO_SEEDS = "番石榴种子"
+    -- Shipwrecked Crops
+STRINGS.NAMES.PAPAYANAPPLE = "番木瓜"
+STRINGS.NAMES.PAPAYANAPPLE_COOKED = "烤番木瓜"
+STRINGS.NAMES.ZUCCHILLI = "西葫芦"
+STRINGS.NAMES.ZUCCHILLI_COOKED = "烤西葫芦" 
+STRINGS.NAMES.ZUCCHILLI_SEEDS = "西葫芦种子"

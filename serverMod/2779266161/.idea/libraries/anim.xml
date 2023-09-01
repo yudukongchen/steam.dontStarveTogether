@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="anim">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/anim/aloe.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/superfarm.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/bg_5x5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/superfarm_soil.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/quagmire_seeds.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/plant_normal_ground.zip!/" />
+      <root url="jar://$PROJECT_DIR$/anim/hydroponic_farm_decor.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
