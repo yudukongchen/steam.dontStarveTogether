@@ -8,7 +8,7 @@ local function MakeRobobeeSkin( name )
 
 	local brain = require("brains/robobeebrain")
 
---upd 	local WAKE_TO_FOLLOW_DISTANCE = 15
+-- 	local WAKE_TO_FOLLOW_DISTANCE = 15  修改工作范围(+10)
 	local WAKE_TO_FOLLOW_DISTANCE = 25
 	local SLEEP_NEAR_LEADER_DISTANCE = 0
 
