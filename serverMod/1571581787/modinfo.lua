@@ -49,6 +49,8 @@ configuration_options =
 		options =	{
 						{description = "99", data = 99},
 						{description = "250", data = 250},
+                    --  添加堆叠数量可选项
+						{description = "360", data = 360},
 						{description = "500", data = 500},
 						{description = "999", data = 999},
 						{description = "9999", data = 9999},
